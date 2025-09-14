@@ -1,1 +1,1 @@
-# .github
+# .github\n\nOrganization-wide workflows, policies, and templates.\n
